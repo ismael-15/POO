@@ -1,0 +1,10 @@
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\bin\Debug\introduccion.POO.exe.config
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\bin\Debug\introduccion.POO.exe
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\bin\Debug\introduccion.POO.pdb
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\obj\Debug\introduccion.POO.csproj.AssemblyReference.cache
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\obj\Debug\introduccion.POO.Form1.resources
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\obj\Debug\introduccion.POO.Properties.Resources.resources
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\obj\Debug\introduccion.POO.csproj.GenerateResource.cache
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\obj\Debug\introduccion.POO.csproj.CoreCompileInputs.cache
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\obj\Debug\introduccion.POO.exe
+C:\Users\familia\source\repos\introduccion.POO\introduccion.POO\obj\Debug\introduccion.POO.pdb
